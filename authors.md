@@ -1,6 +1,6 @@
 ---
 layout: page2
-title: ""
+title: "by author"
 ---
 
 {% capture tags %}
