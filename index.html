@@ -10,7 +10,7 @@ layout: default
  -->
       <div class="entry">
         {{ post.content }}
-        <hr>Added to diary{{ post.date | date_to_long_string }}<br><br><br>
+        <hr>Added to diary {{ post.date | date_to_long_string }}<br><br><br>
       </div>
     </article>
   {% endfor %}
