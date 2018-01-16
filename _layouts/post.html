@@ -3,15 +3,9 @@ layout: default
 ---
 
 <article class="post">
-  <h1>Added {{ page.date | date_to_long_string }}</h1>
-
   <div class="entry">
     {{ content }}
   </div>
-
-  <div class="date">
-<!--     Written on {{ page.date | date: "%B %e, %Y" }}
- -->  </div>
-
+ 	<hr> Added to diary {{ page.date | date_to_long_string }}
   {% include disqus.html %}
 </article>

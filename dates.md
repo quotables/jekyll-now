@@ -45,7 +45,7 @@ title: "by date"
 
 {% endif %}
 
-{{ post.content }} <hr>Added to diary {{ post.date | date_to_long_string }}<br><br><br>
+{{ post.content }} <hr><a href="{{post.url}}">Added to diary {{ post.date | date_to_long_string }}</a><br><br><br>
 
 {% if forloop.last %}
 
