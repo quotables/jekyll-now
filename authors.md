@@ -20,9 +20,8 @@ title: "by author"
 {% for tag in sortedtags %}
   <h1 id="{{ tag }}">{{ tag }}</h1>
   {% for post in site.tags[tag] %}
-<h4>Added {{ post.date | date_to_long_string }}</h4>
 {{ post.content }}
-<hr><br><br><br>
+<hr>Added to diary {{ post.date | date_to_long_string }}<br><br><br>
 
 {% endfor %}
 <br><br><br><br><br><br><br><br><br>
