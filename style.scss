@@ -293,3 +293,9 @@ hr{
     background: #333;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
+
+// This will apply to authors.md and dates.md
+article.post2 {
+  padding-bottom: 2em;
+  border-top: 1px solid $lightGray;
+}
