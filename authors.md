@@ -27,5 +27,4 @@ title: "by author"
 </article>
 
 {% endfor %}
-<br><br><br><br><br><br><br><br><br> <!-- spacing between authors -->
 {% endfor %}
