@@ -1,0 +1,9 @@
+---
+title:  ""
+layout: post
+tags: william-child
+---
+
+>  ‘In the use of words’, Wittgenstein writes in Philosophical Investigations, ‘one might distinguish “surface grammar” from “depth grammar” ’ (PI §664). Words that have the same ‘surface grammar’ may have very different ‘depth grammars’. And philosophical problems arise when we are misled by ‘certain analogies between the forms of expression in different regions of our language’ (PI §90) into thinking that the phenomena we are talking about when we use those expressions are similarly analogous (we will shortly consider an example). So there is a significant parallel between Wittgenstein’s early and later views about the source of philosophical problems. And there is a significant parallel in his view about the proper response to philosophical problems: we should not try to solve those problems by producing a philosophical theory; instead, we should dissolve them, by showing that they were not genuine problems at all. ‘We cannot give any answer to [philosophical questions]’, Wittgenstein writes in the Tractatus, ‘but can only point out that they are nonsensical’ (TLP: 4.003). Similarly, in Philosophical Investigations: ‘The results of philosophy are the discovery of some piece of plain nonsense and the bumps that the understanding has got by running up against the limits of language’ (PI §119). ‘What I want to teach’, he says, ‘is: to pass from unobvious nonsense to obvious nonsense’ (PI §464). ‘The clarity that we are aiming at is indeed complete clarity. But this simply means that the philosophical problems should completely disappear’ (PI §133).
+
+William Child, _Wittgenstein_, 2011
