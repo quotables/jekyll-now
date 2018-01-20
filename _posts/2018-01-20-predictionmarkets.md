@@ -15,9 +15,11 @@ tags: justin-wolfers eric-zitzewitz
 > We start by assuming that beliefs are drawn from a uniform distribution with a range of 10 percentage points, and solve for the mapping between mean beliefs and prices implied by each of the utility functions shown in Figure 1. (We rescale beliefs outside the (0,1) range to 0 or 1.) Figure 2 shows that for moderately dispersed beliefs, prediction market prices tend to coincide fairly closely with the mean beliefs. While there is some divergence, it is typically within a percentage point, although the risk neutral model yields larger differences. [...]
 > 
 > ![figure2](/images/predictionmarkets-figure2.png)
+> _Figure 2_
 > 
 > Figure 3 shows the mapping from prices to probabilities when beliefs are more disperse (in this case the standard deviation and range were doubled). As the dispersion of beliefs widens, the number of traders with extreme beliefs increases, and hence the non-linear response to the divergence between beliefs and prices is increasingly important. As such, the biases evident in Figure 2 become even more evident as the distribution of beliefs widens. Even so, for utility functions with standard levels of risk aversion, these biases are small.
 > 
 > ![figure3](/images/predictionmarkets-figure3.png)
+> _Figure 3_
 
 Justin Wolfers and Eric Zitzewitz, _Interpreting Prediction Market Prices as Probabilities_, NBER Working Paper No. 12200, May 2006
