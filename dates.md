@@ -12,33 +12,26 @@ title: "by date"
 {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
 
 {% if forloop.first %}
+<h2><a href="#{{ this_year }}-ref">{{this_year}}</a></h2>
 <ul>
-<li><h2><a href="#{{ this_year }}-ref">{{this_year}}</a></h2></li>
-<ul>
-<li><h3><a href="#{{ this_year }}-{{ this_month }}-ref">{{ this_month }}</a></h3></li>
-</ul>
+<h3><a href="#{{ this_year }}-{{ this_month }}-ref">{{ this_month }}</a></h3>
 </ul>
 
 {% endif %}
-
-<!-- <article class="post2">
-{{ post.content }} <hr><a href="{{post.url}}">Added to diary {{ post.date | date_to_long_string }}</a></article> -->
 
 {% if forloop.last %}
 
 {% else %}
     {% if this_year != next_year %}
+    <h2><a href="#{{ next_year }}-ref">{{next_year}}</a></h2>
     <ul>
-    <li><h2><a href="#{{ next_year }}-ref">{{next_year}}</a></h2><li>
-    <ul>
-        <li><h3><a href="#{{ next_year }}-{{ next_month }}-ref">{{ next_month }}</a></h3></li>
-        </ul>
-    <ul>
+        <h3><a href="#{{ next_year }}-{{ next_month }}-ref">{{ next_month }}</a></h3>
+    </ul>
     {% else %}    
         {% if this_month != next_month %}
-<ul><ul>
-<li><h3><a href="#{{ this_year }}-{{ next_month }}-ref">{{ next_month }}</a></h3></li>
-</ul></ul>
+<ul>
+<h3><a href="#{{ this_year }}-{{ next_month }}-ref">{{ next_month }}</a></h3>
+</ul>
         {% endif %}
     {% endif %}
 {% endif %}
