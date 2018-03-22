@@ -12,5 +12,5 @@ Emphasis is mine.
 > 
 > Effective altruism is an idea with a community built around it. **That community champions certain values that aren’t part of the definition of effective altruism per se**. These include serious commitment to benefiting others, with many members of the community pledging to donate at least 10% of their income to charity; scientific mindset, and willingness to change one’s mind in light of new evidence or argument; openness to many different cause-areas, such as extreme poverty, farm animal welfare, and risks of human extinction; integrity, with a strong commitment to honesty and transparency; and a collaborative spirit, with an unusual level of cooperation between people with different moral projects.
 
-William MacAskill, "Effective Altruism: Introduction," _Essays in Philosophy_: Vol. 18: Iss. 1, Article 1. http://dx.doi.org/10.7710/1526-0569.1580
+William MacAskill, "[Effective Altruism: Introduction](http://dx.doi.org/10.7710/1526-0569.1580)" _Essays in Philosophy_: Vol. 18: Iss. 1, Article 1. doi:10.7710/1526-0569.1580
 
