@@ -5,7 +5,7 @@ tags: esther-duflo
 ---
 
 
-> As economists increasingly help governments design new policies and regulations, they take on an added responsibility to engage with the details of policy making and, in doing so, to adopt the mindset of a _plumber_.
+> As economists increasingly help governments design new policies and regulations, they take on an added responsibility to engage with the details of policy making and, in doing so, to adopt the mindset of a _plumber_. [...]
 > 
 > There are two reasons for this need to attend to details. First, it turns out that policy makers rarely have the time or inclination to focus on them, and will tend to decide on how to address them based on hunches, without much regard for evidence. [...] Second, details that we as economists might consider relatively uninteresting are in fact extraordinarily important in determining the final impact of a policy or a regulation, while some of the theoretical issues we worry about most may not be that relevant. [...]
 >
