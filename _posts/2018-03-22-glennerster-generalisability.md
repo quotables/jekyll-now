@@ -20,10 +20,10 @@ tags:  mary-ann-bates rachel-glennerster
 > 
 > Focusing on mechanisms, and then judging whether a mechanism is likely to apply in a new setting, has a number of practical advantages for policy making. [...] We suggest the use of a four-step generalizability framework that seeks to answer a crucial question at each step:
 > 
-> Step 1: What is the disaggregated theory behind the program? 
-> Step 2: Do the local conditions hold for that theory to apply? 
-> Step 3: How strong is the evidence for the required general behavioral change? 
-> Step 4: What is the evidence that the implementation process can be carried out well?
+> Step 1: What is the disaggregated theory behind the program?   
+> Step 2: Do the local conditions hold for that theory to apply?   
+> Step 3: How strong is the evidence for the required general behavioral   change?   
+> Step 4: What is the evidence that the implementation process can be carried out well?  
 
 Bates, M. A., & Glennerster, R. (2017). "The generalizability puzzle". _Stanford Social Innovation Review_, Summer 2017. Leland Stanford Jr. University.
 
