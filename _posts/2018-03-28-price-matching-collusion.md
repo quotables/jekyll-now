@@ -16,5 +16,5 @@ tags: the-economist-contributors
 > 
 > This does not seem to be what is happening in Britain, however. There, it is the more expensive supermarkets that are promising to match each others’ prices. Only one has pledged to match the deals on offer at Aldi and Lidl, nimble low-cost rivals that are making inroads into the market.
 
-_Guaranteed profits_, The Economist, 12 February 2015
+The Economist, _Guaranteed profits_, 12 February 2015
 
