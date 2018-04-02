@@ -15,3 +15,5 @@ tags: paul-christiano
 Paul Christiano _Altruism and profit_, Rational altruist, July 11 2013
 
 This part can be hard to follow: "If the opportunity involves diminishing returns and allows capturing only a _tiny_ fraction of all of the social gains". The explanation is: the more convex the demand curve (quickly diminishing returns), the greater the fraction of total surplus captured by a monopolist. The more concave the demand (slowly diminishing returns), the less the fraction of social surplus captured by a monopolist. See [Malueg 1994](https://www.jstor.org/stable/1182936) (_Monopoly Output and Welfare: The Role of Curvature of the Demand Function_, Proposition 2). The same result extends to Cournot oligopoly ([Anderson and Renault 2001](https://www.sciencedirect.com/science/article/pii/S0022053103000899), _Efficiency and surplus bounds in Cournot competition_).
+
+And why does Paul say "very profitable _at first_"? Because every natural monopoly must end someday: patents expire, know-how diffuses, capital depreciates, and so on.
