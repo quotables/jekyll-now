@@ -41,12 +41,12 @@ Wikipedia contributors, _Debate between bird and fish_
 
 > Seven major debates are known, with specific titles [...]:
 > 
-> *Debate between bird and fish  
-> *Debate between cattle and grain  
-> *Debate between the millstone and the gulgul-stone  
-> *Debate between the pickaxe and the plough  
-> *Debate between silver and mighty copper  
-> *Debate between Summer and Winter  
-> *Debate between tree and the reed  
+> * Debate between bird and fish  
+> * Debate between cattle and grain  
+> * Debate between the millstone and the gulgul-stone  
+> * Debate between the pickaxe and the plough  
+> * Debate between silver and mighty copper  
+> * Debate between Summer and Winter  
+> * Debate between tree and the reed  
 
 Wikipedia contributors, _Sumerian disputations_
