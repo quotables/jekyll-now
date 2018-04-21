@@ -52,15 +52,13 @@ This section, comparing three models of education (human capital, signalling, ab
 >
 > Table 3.2: Human Capital, Signaling, and Ability Bias [WYSIWYG = “What You See Is What You Get.”]
 >
-
-| Story | Visibility of Skill | Education’s Effect on Skill | Education’s Effect on Income  |
-|--|--|--|--|
-| Pure Human Capital | Perfect | WYSIWYG | WYSIWYG |
-| Pure Signaling | Zero | Zero | WYSIWYG |
-| Pure Ability Bias | Perfect | Zero | Zero |
-| ⅓ Human Capital, ⅓ Signaling, ⅓ Ability Bias | 2/3 | 1/3 x WYSIWYG | 2/3 x WYSIWYG |
-
 >
+> | Story | Visibility of Skill | Education’s Effect on Skill | Education’s Effect on Income  |
+> |--|--|--|--|
+> | Pure Human Capital | Perfect | WYSIWYG | WYSIWYG |
+> | Pure Signaling | Zero | Zero | WYSIWYG |
+> | Pure Ability Bias | Perfect | Zero | Zero |
+> | ⅓ Human Capital, ⅓ Signaling, ⅓ Ability Bias | 2/3 | 1/3 x WYSIWYG | 2/3 x WYSIWYG |
 >
 >
 > In 1999, a comprehensive review of earlier studies found that correcting for IQ reduces the education premium by an average of 18%. 7 When researchers correct for scores on the Armed Forces Qualification Test (AFQT), an especially high-quality IQ test, the education premium typically declines by 20–30%. 8 Correcting for mathematical ability may tilt the scales even more; the most prominent researchers to do so report a 40–50% decline in the education premium for men and a 30–40% decline for women.
