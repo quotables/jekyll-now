@@ -299,3 +299,39 @@ article.post2 {
   padding-bottom: 2em;
   border-top: 1px solid $lightGray;
 }
+
+// table styling -ts
+table {
+  border-collapse: collapse;
+  border-top: .3rem solid #ddd;
+  margin-bottom:  1.9rem;
+  width: 100%;
+}
+
+table td,
+table th {
+  padding: calc( 1.9rem / 4) .6rem;
+}
+
+table td:first-child,
+table th:first-child {
+  padding-left: 0;
+}
+
+table td:last-child,
+table th:last-child {
+  padding-right: 0;
+}
+
+table th {
+  font-weight: normal;
+  text-align: left;
+}
+
+table tbody tr:first-child {
+  border-top: .2rem solid #ddd;
+}
+
+table tbody tr:last-child {
+  border-bottom: .3rem solid #ddd;
+}
