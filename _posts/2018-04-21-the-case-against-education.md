@@ -52,12 +52,14 @@ This section, comparing three models of education (human capital, signalling, ab
 >
 > Table 3.2: Human Capital, Signaling, and Ability Bias [WYSIWYG = “What You See Is What You Get.”]
 >
- > | Story | Visibility of Skill | Education’s Effect on Skill | Education’s Effect on Income  |
-> | --|--|--|--|--|
- > | Pure Human Capital | Perfect | WYSIWYG | WYSIWYG |
- > | Pure Signaling | Zero | Zero | WYSIWYG |
- > | Pure Ability Bias | Perfect | Zero | Zero |
- > | ⅓ Human Capital, ⅓ Signaling, ⅓ Ability Bias | 2/3 | 1/3*WYSIWYG | 2/3* WYSIWYG |
+
+| Story | Visibility of Skill | Education’s Effect on Skill | Education’s Effect on Income  |
+|--|--|--|--|
+| Pure Human Capital | Perfect | WYSIWYG | WYSIWYG |
+| Pure Signaling | Zero | Zero | WYSIWYG |
+| Pure Ability Bias | Perfect | Zero | Zero |
+| ⅓ Human Capital, ⅓ Signaling, ⅓ Ability Bias | 2/3 | 1/3 x WYSIWYG | 2/3 x WYSIWYG |
+
 >
 >
 >
