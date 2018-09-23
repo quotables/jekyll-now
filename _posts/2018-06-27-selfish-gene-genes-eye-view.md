@@ -4,8 +4,6 @@ title: ""
 tags: richard-dawkins
 --- 
 
-The gene's eye view of natural selection. Footnotes (1989 edition) are doubly indented.
-
 > Species are grouped together into genera, genera into orders, and orders into classes. Lions and antelopes are both members of the class Mammalia, as are we. Should we then not expect lions to refrain from killing antelopes, ‘for the good of the mammals’? Surely they should hunt birds or reptiles instead, in order to prevent the extinction of the class. But then, what of the need to perpetuate the whole phylum of vertebrates? [...]
 > 
 > I am using the word gene to mean a genetic unit that is small enough to last for a large number of generations and to be distributed around in the form of many copies. This is not a rigid all-or-nothing definition, but a kind of fading-out definition, like the definition of ‘big’ or ‘old’. The more likely a length of chromosome is to be split by crossing-over, or altered by mutations of various kinds, the less it qualifies to be called a gene in the sense in which I am using the term.
@@ -48,3 +46,4 @@ The gene's eye view of natural selection. Footnotes (1989 edition) are doubly in
 
 Richard Dawkins, _The Selfish Gene_, 30th Anniversary Edition, 2006
 
+Footnotes (1989 edition) are doubly indented.
