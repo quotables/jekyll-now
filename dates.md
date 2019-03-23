@@ -22,18 +22,18 @@ title: "by date"
 {% if forloop.last %}
 
 {% else %}
-    {% if this_year != next_year %}
-    <h2><a href="#{{ next_year }}-ref">{{next_year}}</a></h2>
-    <ul>
-        <h3><a href="#{{ next_year }}-{{ next_month }}-ref">{{ next_month }}</a></h3>
-    </ul>
-    {% else %}    
-        {% if this_month != next_month %}
+{% if this_year != next_year %}
+<h2><a href="#{{ next_year }}-ref">{{next_year}}</a></h2>
+<ul>
+<h3><a href="#{{ next_year }}-{{ next_month }}-ref">{{ next_month }}</a></h3>
+</ul>
+{% else %}    
+{% if this_month != next_month %}
 <ul>
 <h3><a href="#{{ this_year }}-{{ next_month }}-ref">{{ next_month }}</a></h3>
 </ul>
-        {% endif %}
-    {% endif %}
+{% endif %}
+{% endif %}
 {% endif %}
 {% endfor %}
 
@@ -67,13 +67,13 @@ title: "by date"
 {% if forloop.last %}
 
 {% else %}
-    {% if this_year != next_year %}
-    <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
-    <h3 id="{{ next_year }}-{{ next_month }}-ref">{{ next_month }}</h3>
-    {% else %}    
-        {% if this_month != next_month %}
+{% if this_year != next_year %}
+<h2 id="{{ next_year }}-ref">{{next_year}}</h2>
+<h3 id="{{ next_year }}-{{ next_month }}-ref">{{ next_month }}</h3>
+{% else %}    
+{% if this_month != next_month %}
 <h3 id="{{ this_year }}-{{ next_month }}-ref">{{ next_month }}</h3>
-        {% endif %}
-    {% endif %}
+{% endif %}
+{% endif %}
 {% endif %}
 {% endfor %}
